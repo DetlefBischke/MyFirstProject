@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c1cc08-c717-4417-a3cd-84ec4708db07" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainModule/bin/com/db/app/main/HelloTest.class" afterPath="$PROJECT_DIR$/MainModule/bin/com/db/app/main/HelloTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainModule/src/test/java/com/db/app/main/HelloTest.java" afterPath="$PROJECT_DIR$/MainModule/src/test/java/com/db/app/main/HelloTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
