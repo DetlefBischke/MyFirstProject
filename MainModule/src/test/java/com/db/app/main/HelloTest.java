@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
  * Created by phoenix on 14.08.17.
+ * Von mir 
  */
 public class HelloTest {
 
@@ -17,6 +18,7 @@ public class HelloTest {
     public void setup() {
        mainService=MainServiceFactory.getInstance();
     }
+    
 
     @Test
     @DisplayName("Das ist der Hello Test")

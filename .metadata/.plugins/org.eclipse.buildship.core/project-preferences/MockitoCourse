@@ -1,0 +1,9 @@
+#
+#Sun Aug 27 11:31:31 CEST 2017
+linkedResources=
+managedNatures=org.eclipse.jdt.core.javanature
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+subprojectPaths=BackendModule\:MainModule
+derivedResources=.gradle\:build\:BackendModule/build\:MainModule/build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildDir=build
